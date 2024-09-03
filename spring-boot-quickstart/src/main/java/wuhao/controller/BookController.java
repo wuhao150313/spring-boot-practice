@@ -18,7 +18,7 @@ public class BookController {
 
     @GetMapping()
     public List<BookDTO> getBooks() {
-        return  bookService.getllBooks();
+        return bookService.getAllBooks();
     }
 
 }
