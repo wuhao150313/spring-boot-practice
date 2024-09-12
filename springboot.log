@@ -1,0 +1,72 @@
+2024-09-09T21:17:31.261+08:00  INFO 22904 --- [main] t.w.springboot.thymeleay.Application     : Starting Application using Java 17.0.1 with PID 22904 (E:\spring-boot-pratice\spring-boot-thymeleay\target\classes started by PC in E:\spring-boot-pratice)
+2024-09-09T21:17:31.263+08:00  INFO 22904 --- [main] t.w.springboot.thymeleay.Application     : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T21:17:31.849+08:00  INFO 22904 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T21:17:31.858+08:00  INFO 22904 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T21:17:31.859+08:00  INFO 22904 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T21:17:31.937+08:00  INFO 22904 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T21:17:31.938+08:00  INFO 22904 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 643 ms
+2024-09-09T21:17:32.260+08:00  INFO 22904 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-09T21:17:32.267+08:00  INFO 22904 --- [main] t.w.springboot.thymeleay.Application     : Started Application in 1.289 seconds (process running for 1.667)
+2024-09-09T21:18:33.643+08:00  INFO 22904 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-09T21:18:33.643+08:00  INFO 22904 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-09-09T21:18:33.643+08:00  INFO 22904 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-09-09T21:20:05.683+08:00  INFO 20948 --- [main] t.w.springboot.thymeleay.Application     : Starting Application using Java 17.0.1 with PID 20948 (E:\spring-boot-pratice\spring-boot-thymeleay\target\classes started by PC in E:\spring-boot-pratice)
+2024-09-09T21:20:05.685+08:00  INFO 20948 --- [main] t.w.springboot.thymeleay.Application     : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T21:20:06.290+08:00  INFO 20948 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T21:20:06.298+08:00  INFO 20948 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T21:20:06.298+08:00  INFO 20948 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T21:20:06.349+08:00  INFO 20948 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T21:20:06.349+08:00  INFO 20948 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 634 ms
+2024-09-09T21:20:06.647+08:00  INFO 20948 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-09T21:20:06.654+08:00  INFO 20948 --- [main] t.w.springboot.thymeleay.Application     : Started Application in 1.254 seconds (process running for 1.606)
+2024-09-09T21:20:16.812+08:00  INFO 20948 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-09T21:20:16.813+08:00  INFO 20948 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-09-09T21:20:16.813+08:00  INFO 20948 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-09-09T21:21:21.537+08:00  INFO 22172 --- [main] t.w.springboot.thymeleay.Application     : Starting Application using Java 17.0.1 with PID 22172 (E:\spring-boot-pratice\spring-boot-thymeleay\target\classes started by PC in E:\spring-boot-pratice)
+2024-09-09T21:21:21.539+08:00  INFO 22172 --- [main] t.w.springboot.thymeleay.Application     : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T21:21:22.124+08:00  INFO 22172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T21:21:22.134+08:00  INFO 22172 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T21:21:22.135+08:00  INFO 22172 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T21:21:22.184+08:00  INFO 22172 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T21:21:22.184+08:00  INFO 22172 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 611 ms
+2024-09-09T21:21:22.465+08:00  INFO 22172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-09T21:21:22.471+08:00  INFO 22172 --- [main] t.w.springboot.thymeleay.Application     : Started Application in 1.227 seconds (process running for 1.59)
+2024-09-09T21:21:35.183+08:00  INFO 22172 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-09T21:21:35.183+08:00  INFO 22172 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-09-09T21:21:35.184+08:00  INFO 22172 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-09-09T21:23:34.324+08:00  INFO 2732 --- [main] t.w.springboot.thymeleay.Application     : Starting Application using Java 17.0.1 with PID 2732 (E:\spring-boot-pratice\spring-boot-thymeleay\target\classes started by PC in E:\spring-boot-pratice)
+2024-09-09T21:23:34.326+08:00  INFO 2732 --- [main] t.w.springboot.thymeleay.Application     : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T21:23:34.906+08:00  INFO 2732 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T21:23:34.920+08:00  INFO 2732 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T21:23:34.921+08:00  INFO 2732 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T21:23:35.010+08:00  INFO 2732 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T21:23:35.010+08:00  INFO 2732 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 654 ms
+2024-09-09T21:23:35.289+08:00  INFO 2732 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-09T21:23:35.295+08:00  INFO 2732 --- [main] t.w.springboot.thymeleay.Application     : Started Application in 1.253 seconds (process running for 1.597)
+2024-09-09T21:23:36.158+08:00  INFO 2732 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-09T21:23:36.158+08:00  INFO 2732 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-09-09T21:23:36.160+08:00  INFO 2732 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-09-09T21:23:50.977+08:00  INFO 14004 --- [main] t.w.springboot.thymeleay.Application     : Starting Application using Java 17.0.1 with PID 14004 (E:\spring-boot-pratice\spring-boot-thymeleay\target\classes started by PC in E:\spring-boot-pratice)
+2024-09-09T21:23:50.980+08:00  INFO 14004 --- [main] t.w.springboot.thymeleay.Application     : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T21:23:51.576+08:00  INFO 14004 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T21:23:51.587+08:00  INFO 14004 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T21:23:51.587+08:00  INFO 14004 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T21:23:51.637+08:00  INFO 14004 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T21:23:51.638+08:00  INFO 14004 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 623 ms
+2024-09-09T21:23:51.907+08:00  INFO 14004 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-09T21:23:51.913+08:00  INFO 14004 --- [main] t.w.springboot.thymeleay.Application     : Started Application in 1.28 seconds (process running for 1.666)
+2024-09-09T21:24:01.334+08:00  INFO 14004 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-09T21:24:01.334+08:00  INFO 14004 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-09-09T21:24:01.334+08:00  INFO 14004 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-09-09T21:24:10.931+08:00  INFO 7176 --- [main] t.w.springboot.thymeleay.Application     : Starting Application using Java 17.0.1 with PID 7176 (E:\spring-boot-pratice\spring-boot-thymeleay\target\classes started by PC in E:\spring-boot-pratice)
+2024-09-09T21:24:10.934+08:00  INFO 7176 --- [main] t.w.springboot.thymeleay.Application     : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T21:24:11.508+08:00  INFO 7176 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T21:24:11.517+08:00  INFO 7176 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T21:24:11.518+08:00  INFO 7176 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T21:24:11.568+08:00  INFO 7176 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T21:24:11.568+08:00  INFO 7176 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 601 ms
+2024-09-09T21:24:11.826+08:00  INFO 7176 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-09T21:24:11.832+08:00  INFO 7176 --- [main] t.w.springboot.thymeleay.Application     : Started Application in 1.201 seconds (process running for 1.543)
+2024-09-09T21:24:15.736+08:00  INFO 7176 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-09T21:24:15.736+08:00  INFO 7176 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-09-09T21:24:15.738+08:00  INFO 7176 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms

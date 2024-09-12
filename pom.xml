@@ -6,22 +6,24 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.3.3</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
+
 
     <groupId>wuhao</groupId>
     <artifactId>spring-boot-pratice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>pom</packaging>
     <name>spring-boot-pratice</name>
     <description>spring-boot-pratice</description>
 
 
     <modules>
         <module>spring-boot-quickstart</module>
+        <module>spring-boot-thymeleay</module>
+        <module>spring-boot-logging</module>
     </modules>
 
-
+    <packaging>pom</packaging>
 
 
     <properties>
