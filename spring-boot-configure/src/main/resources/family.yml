@@ -1,0 +1,8 @@
+#family:
+#  age: ${random.int(1,30)}
+#  child: Tom
+#  family-name: happily
+#  father: ${father.name:zhangsan}
+#  mother: Rose333
+#father:
+#  name: ccb

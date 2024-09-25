@@ -1,0 +1,75 @@
+
+
+server:
+  host: "localhost"
+  port: 8080
+  context-path: "/api"
+
+#person:
+#  firstName: "John"
+#  lastName: "Doe"
+#  age: ${random.int(20,50)}
+#  id: ${random.uuid}
+#  phone: 1234567890
+
+student:
+  name: "张飞"
+  age: 20
+  happy: true
+  birth: 2024/01/01
+  map: {k1: v1,k2: v2}
+  list:
+    - code
+    - read
+    - music
+  dog:
+    name: 虎子
+    age: 11
+
+
+#family:
+#  age: ${random.int(1,30)}
+#  child: Tom
+#  family-name: happily
+#  father: ${father.name:zhangsan}
+#  mother: Rose111
+#
+#father:
+#  name: aab
+
+
+db:
+  url: jdbc:mysql://127.0.0.1:3306/spring-boot?useUnicode=true&characterEncoding=utf-8&useSSL=false&allowMultiQueries=true
+  username: root
+  password: password
+  driver-class-name: com.mysql.cj.jdbc.Driver
+
+jwt:
+  secret: helloworld
+  expiration: 3600000
+
+custom:
+  qrcode:
+    content: "http://m.vivo.com.cn/"
+  log:
+    level: "INFO"
+  backup:
+    location: F:\log\backup.log
+
+
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 1840165925@qq.com
+    password: saeutthcdstefbhe
+    properties:
+      mail.smtp.auth: true
+      mail.smtp.starttls.enable: true
+  web:
+    resources:
+      static-locations: classpath:/static/,file:${file.upload-path}
+  servlet:
+    multipart:
+      max-file-size: 10485760
+      max-request-size: 10485760
+

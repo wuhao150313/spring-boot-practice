@@ -21,6 +21,8 @@
         <module>spring-boot-quickstart</module>
         <module>spring-boot-thymeleay</module>
         <module>spring-boot-logging</module>
+        <module>my-wuhao-api</module>
+        <module>spring-boot-configure</module>
     </modules>
 
     <packaging>pom</packaging>
@@ -39,6 +41,12 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <scope>runtime</scope>
         </dependency>
     </dependencies>
 
