@@ -1,0 +1,9 @@
+
+
+
+aliyun:
+  oss:
+    endpoint: https://oss-cn-nanjing.aliyuncs.com
+    accessKeyId: LTAI5t6cqkfZNYHdD9UJdjXS
+    accessKeySecret: SDhko1zmwZBJL2LLuVysXETeCE7Ex3
+    bucketName: 1840165925wu

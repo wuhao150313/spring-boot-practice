@@ -1,7 +1,7 @@
 package wuhao.springboot.configure.util;
 
 
-import cn.hutool.jwt.JWT;
+
 import cn.hutool.jwt.JWTUtil;
 import jakarta.annotation.Resource;
 import org.springframework.stereotype.Component;

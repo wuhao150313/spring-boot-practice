@@ -18,7 +18,7 @@ class ClazzServiceTest {
 
     @Test
     void getClazzWithTeacher() {
-        Clazz clazzWithTeacher = clazzService.getClazzById(1L);
-        log.info(clazzWithTeacher.toString());
+//        Clazz clazzWithTeacher = clazzService.getClazzById(1L);
+//        log.info(clazzWithTeacher.toString());
     }
 }

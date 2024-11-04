@@ -3,7 +3,6 @@ package wuhao.springboot.configure.config;
 
 
 import com.aliyun.oss.OSS;
-import com.aliyun.oss.OSSClient;
 import com.aliyun.oss.OSSClientBuilder;
 import lombok.Data;
 

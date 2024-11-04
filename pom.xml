@@ -27,6 +27,9 @@
         <module>spring-boot-mp</module>
         <module>spring-boot-exception</module>
         <module>spring-boot-radis</module>
+        <module>untitled</module>
+        <module>spring-boot-file</module>
+        <module>spring-boot-filter-intercepor</module>
     </modules>
 
     <packaging>pom</packaging>
